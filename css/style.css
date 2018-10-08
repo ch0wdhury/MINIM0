@@ -69,9 +69,10 @@ header {}
 	margin: 0 auto;
 }
 .banner_bottom p {
-	color: #8B8B8B;
+	color: #CEC9C0;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 14px;
+	margin: 30px auto;
 }
 .banner_text {
 	margin: 0 auto;
@@ -85,10 +86,7 @@ header {}
 	color: #8B8B8B;
 	font-family: 'Playfair Display', serif;
 	font-size: 14px;
-}
-.banner_bottom p {
-	font-size: 14px;
-	margin: 20px auto;
+	margin: 30px auto;
 }
 /* Banner End */
 
@@ -100,9 +98,10 @@ header {}
 .service h6 {
 	margin: 15px auto;
 	font-weight: normal;
-	color: #8B8B8B;
+	color: #CEC9C0;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 14px;
+	margin: 20px auto;
 }
 .service h2 {
 	color: #626262;
@@ -111,7 +110,7 @@ header {}
 	margin: 15px auto;
 }
 .service p {
-	color: #626262;
+	color: #8B8B8B;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 14px;
 }
@@ -120,8 +119,8 @@ header {}
 }
 .service_content {
 	overflow: hidden;
-	margin-top: 120px;
-	margin-bottom: 120px;
+	margin-top: 100px;
+	margin-bottom: 100px;
 }
 .content_left {
 	width: 45%;
