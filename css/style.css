@@ -66,6 +66,10 @@ header {}
 .banner_top img {
 	width: 100%;
 }
+.wrapper {
+	width: 70%;
+	margin: 0 auto;
+}
 .banner_bottom p {
 	color: #CEC9C0;
 	font-family: 'Ubuntu', sans-serif;
@@ -91,10 +95,6 @@ header {}
 /* Banner End */
 
 /* Service Top Start */
-.wrapper {
-	width: 70%;
-	margin: 0 auto;
-}
 .service h6 {
 	margin: 15px auto;
 	font-weight: normal;
